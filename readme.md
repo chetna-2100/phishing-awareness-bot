@@ -1,0 +1,1 @@
+Phishing Detection AI is a web-based cybersecurity application designed to protect users from online phishing attacks. The system uses artificial intelligence and machine learning techniques to analyze URLs, emails, and SMS messages and identify whether they are safe or potentially malicious.
